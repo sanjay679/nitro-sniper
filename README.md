@@ -40,17 +40,17 @@
 
 ## FAQ
 - **Q: Where can I find the installation steps?**
-- A: [Installation](https://github.com/slow/nitro-sniper/wiki/Installation)
+- A: [Installation](https://www.youtube.com/watch?v=cBIa01Pkq_g)
 
 <br />
 
 - **Q: Where can I find the default configuration?**
-- A: [Default Configuration](https://github.com/slow/nitro-sniper/wiki/Default-Configuration)
+- A: [Default Configuration](https://pastebin.com/raw/9RCcvHcC)
 
 <br />
 
 - **Q: How can I obtain my token?**
-- A: [How to obtain your token](https://www.youtube.com/watch?v=rawcwqFJCCE)
+- A: [How to obtain your token](https://www.youtube.com/watch?v=sYGdDLLu8cU)
 
 <br />
 
